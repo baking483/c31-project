@@ -1,2 +1,2 @@
-# c31-project
-Plinko Project new and improved
+# p5.play-boilerplate
+Boiler plate for p5.play
